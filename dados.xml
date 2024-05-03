@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recompensas>
+    <pirata>
+        <id>	1	</id>
+        <nome>		</nome>
+        <recompensa>	Muhhammad Ali	</recompensa>
+        <alcunha>		</alcunha>
+        <sobre>  ° Estilo de luta: Técnico, ágil, mestre da esquiva e do
+contra-ataque.
+
+° Pontos fortes: Jab rápido, movimentação
+excepcional no ringue, inteligência tática.
+
+° Pontos fracos: Dependência excessiva da resistência,
+tendência a tomar golpes desnecessários.
+
+° Registro de luta: Lutou 61 vezes, perdeu 5, empatou O,
+venceu 56.
+
+° Títulos notáveis: Campeão mundial dos pesos
+pesados por várias vezes  </sobre>
+        <status>		</status>
+    </pirata>
+    <pirata>
+        <id>	2	</id>
+        <nome>		</nome>
+        <recompensa>	Joe Frazier	</recompensa>
+        <alcunha>		</alcunha>
+        <sobre>	° Estilo de luta: Agressivo, poderoso, especialista em
+ganchos de esquerda.
+
+° Pontos fortes: Pressão constante nos oponentes,
+ganchos poderosos, resistência física.
+
+° Pontos fracos: Falta de alcance, relutância em
+adaptar seu estilo de luta.
+
+° Registro de luta: Lutou 37 vezes, perdeu 4, empatou 1,
+venceu 32.
+
+° Títulos notáveis: Campeão mundial dos pesos
+pesados.	</sobre>
+    </pirata>
+    <pirata>
+        <id>	3	</id>
+        <nome>		</nome>
+        <recompensa>	George Foreman	</recompensa>
+        <alcunha>		</alcunha>
+        <sobre>	° Estilo de luta: Poderoso, fisicamente dominante,
+socos devastadores.
+
+° Pontos fortes: Força física avassaladora, poderoso
+soco, capacidade de absorver golpes.
+
+° Pontos fracos: Falta de mobilidade e velocidade.
+
+° Registro de luta: Lutou 81 vezes, perdeu 5, empatou O,
+venceu 76.
+
+° Títulos notáveis: Campeão mundial dos pesos
+pesados por várias vezes.	</sobre>
+    </pirata>
+    <pirata>
+        <id>	4	</id>
+        <nome>		</nome>
+        <recompensa>	Mike Tyson	</recompensa>
+        <alcunha>		</alcunha>
+        <sobre>	° Estilo de luta: Agressivo, poderoso, especialista em
+ataques curtos e poderosos.
+
+° Pontos fortes: Poder de nocaute, agressividade,
+velocidade nos ataques.
+
+° Pontos fracos: Defesa questionável, vulnerabilidade a
+adversários mais altos.
+
+° Registro de luta: Lutou 58 vezes, perdeu 6, empatou O,
+venceu 50.
+
+° Títulos notáveis: Campeão mundial dos pesos
+pesados por várias vezes.	</sobre>
+    </pirata>
+    <pirata>
+        <id>	5	</id>
+        <nome>		</nome>
+        <recompensa>	Thomas Hearns	</recompensa>
+        <alcunha>		</alcunha>
+        <sobre>	° Estilo de luta: Alcance impressionante, poderoso,
+especialista em nocautes.
+
+° Pontos fortes: Jab e direto poderosos, capacidade de
+manter os oponentes à distância.
+
+° Pontos fracos: Suscetibilidade a golpes no corpo,
+defesa vulnerável.
+
+° Registro de luta: Lutou 67 vezes, perdeu 5, empatou 1,
+venceu 61.
+
+° Títulos notáveis: Campeão mundial em várias
+categorias de peso.	</sobre>
+    </pirata>
+    <pirata>
+        <id>	6	</id>
+        <nome>		</nome>
+        <recompensa>	Sugar Ray Robinson	</recompensa>
+        <alcunha>		</alcunha>
+        <sobre>	° Estilo de luta: Versátil, rápido, poderoso.
+
+° Pontos fortes: Jab afiado, ganchos poderosos,
+movimentação suave pelo ringue.
+
+° Pontos fracos: Propensão a lutas prolongadas,
+cansaço em rounds posteriores.
+
+° Registro de luta: Lutou 202 vezes, perdeu 19, empatou
+6, venceu 173.
+
+° Títulos notáveis: Campeão mundial em diversas
+categorias de peso.	</sobre>
+    </pirata>
+    <pirata>
+        <id>	7	</id>
+        <nome>		</nome>
+        <recompensa>	Larry Holmes	</recompensa>
+        <alcunha>		</alcunha>
+        <sobre>	° Estilo de luta: Técnico, jab poderoso, habilidades de
+movimentação.
+
+° Pontos fortes: Controle do ritmo da luta, desgaste
+dos oponentes.
+
+° Pontos fracos: Falta de carisma em comparação com
+outros lutadores.
+
+° Registro de luta: Lutou 75 vezes, perdeu 6, empatou O,
+venceu 69.
+
+° Títulos notáveis: Campeão mundial dos pesos
+pesados.	</sobre>
+    </pirata>
+    <pirata>
+        <id>	8	</id>
+        <nome>		</nome>
+        <recompensa>	Eder Jofre	</recompensa>
+        <alcunha>		</alcunha>
+        <sobre>	° Estilo de luta: Técnico, habilidoso em cortar o ringue,
+lançar combinações precisas.
+
+° Pontos fortes: Jab preciso, defesa sólida, resistência.
+
+° Pontos fracos: Dificuldade em se adaptar a estilos
+diferentes de luta.
+
+° Registro de luta: Lutou 72 vezes, perdeu 2, empatou 4,
+venceu 66.
+
+° Títulos notáveis: Campeão mundial em várias
+categorias de peso.	</sobre>
+    </pirata>
+    <pirata>
+        <id>	9	</id>
+        <nome>		</nome>
+        <recompensa>	Maguila	</recompensa>
+        <alcunha>		</alcunha>
+        <sobre>	° Estilo de luta: Poderoso, especialista em golpes no
+corpo, resistente.
+
+° Pontos fortes: Gancho e uppercut devastadores,
+pressão constante nos oponentes.
+
+° Pontos fracos: Vulnerabilidade a adversários mais
+ágeis e técnicos.
+
+° Registro de luta: Lutou 88 vezes, perdeu 8, empatou 2,
+venceu 78.
+
+° Títulos notáveis: Campeão brasileiro e sul-americano
+dos pesos pesados.	</sobre>
+    </pirata>
+    <pirata>
+        <id>	10	</id>
+        <nome>		</nome>
+        <recompensa>	Sonny Liston	</recompensa>
+        <alcunha>		</alcunha>
+        <sobre>	° Estilo de luta: Poderoso, intimidador, especialista em
+nocautes.
+
+° Pontos fortes: Soco destruidor, físico imponente,
+mentalidade agressiva.
+
+° Pontos fracos: Relutância em enfrentar adversários que
+poderiam ameaçar sua supremacia.
+
+° Registro de luta: Lutou 54 vezes, perdeu 4, empatou O,
+venceu 50.
+
+° Títulos notáveis: Campeão mundial dos pesos pesados	</sobre>
+    </pirata>
+</recompensas>																														
